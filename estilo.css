@@ -1,0 +1,132 @@
+
+body{
+    background-image: url('https://images.pexels.com/photos/3991976/pexels-photo-3991976.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+
+
+h1{
+    font-size: 2cm;
+    color : whitesmoke;
+    text-align: center;
+    filter : invert(0) ;
+}
+
+
+h2{
+    /* font-size: 3cm; */
+    /* color : whitesmoke; */
+    text-align: center;
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+
+
+.container{
+    font-family  :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color :transparent;
+    font-size: medium;
+    width: 100% ;
+}
+
+.accordion-item{
+    background-color: transparent;
+    border:0px;
+}
+
+.accordion-body{
+    background-color : transparent;
+    padding: 0px;
+   
+}
+
+/* table{
+    width: 100%;
+    margin-bottom: 0px;
+    color: whitesmoke;
+    background-color:transparent;
+    /* text-align: left;  
+    filter: invert(0);
+    border-collapse: separate; 
+    border-color: transparent;
+    /* border-spacing: 0.5em; 
+    letter-spacing: 0em;
+    /* top | right | bottom | left */
+    /* padding:  2em 0em 0.5em 0em; 
+    
+    
+}  */
+
+
+/* table{
+    color: whitesmoke;
+    
+} */
+
+/* .table{
+    width: 100%;
+    margin-bottom: 0px;
+    color: whitesmoke;
+    background-color:transparent;
+    text-align: left; 
+    filter: invert(0);
+    border-collapse: separate; 
+    border-color: transparent;
+    border-spacing: 1em;
+    letter-spacing: 0em;
+    top | right | bottom | left
+    padding:  2em 0em 0.5em 0em;} */
+
+.accordion-button{
+    color: transparent;
+    
+}
+
+.accordion-header{
+    background-color:transparent;
+}
+
+
+.mask-custom {
+    background: rgba(94, 94, 92, 0.2);
+    border-radius: 2em;
+    backdrop-filter: blur(50px);
+    border: 2px solid rgba(255, 255, 255, 0.05);
+    background-clip: padding-box;
+    box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+  }
+
+
+th{
+    filter: invert(0);
+    text-align: left;
+    padding-left: 0cm;
+    padding-right:0cm; 
+}  
+
+
+td{
+    filter: invert(0);
+    text-align: left;
+    padding-left: 0cm;
+    padding-right:0cm; 
+    width: 4cm;
+}  
+
+
+
+table{
+    width: 100%;
+    color:whitesmoke;
+    padding-top: 1cm;
+    margin-bottom: 1cm;
+
+}
+
